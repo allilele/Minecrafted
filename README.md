@@ -10,7 +10,7 @@ $server.connect();
 Get infos :
 $server->getMotd();     //Get server's Motd
 $server->getIp();       //Get server IP
-$server->getPort();	//Get server Port
+$server->getPort();		//Get server Port
 $server->getOnPlyrs();	//Get online players count
 $server->getMaxPlyers();//Get max player count
-$server->getPing();	//Get ping between Minecraft Server and WebServer
+$server->getPing();		//Get ping between Minecraft Server and WebServer
