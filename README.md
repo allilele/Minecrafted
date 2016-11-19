@@ -3,9 +3,8 @@ A link between PHP and a Minecraft server.
 
 usage :
 
-init :
-$server = new Minecrafted('IP',PORT);
-$server.connect();
+$server = new Minecrafted('IP',PORT); //initialise server object
+$server.connect();                    //Conenct to server
 
 Get infos :
 $server->getMotd();     //Get server's Motd
