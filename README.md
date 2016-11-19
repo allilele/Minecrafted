@@ -13,3 +13,4 @@ $server->getPort();		//Get server Port
 $server->getOnPlyrs();	//Get online players count
 $server->getMaxPlyers();//Get max player count
 $server->getPing();		//Get ping between Minecraft Server and WebServer
+
